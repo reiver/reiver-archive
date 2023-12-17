@@ -4,3 +4,6 @@
 [submodule "http/nikhilbuduma.com"]
 	path = http/nikhilbuduma.com
 	url = https://github.com/reiver/archive-nikhilbuduma.com
+[submodule "http/biologicallydetermined.blogspot.com"]
+	path = http/biologicallydetermined.blogspot.com
+	url = https://github.com/reiver/archive-biologicallydetermined.blogspot.com
