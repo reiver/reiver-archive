@@ -7,3 +7,6 @@
 [submodule "http/biologicallydetermined.blogspot.com"]
 	path = http/biologicallydetermined.blogspot.com
 	url = https://github.com/reiver/archive-biologicallydetermined.blogspot.com
+[submodule "https/lists.orbitalfox.eu"]
+	path = https/lists.orbitalfox.eu
+	url = https://github.com/reiver/archive-lists.orbitalfox.eu
